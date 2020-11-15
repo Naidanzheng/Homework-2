@@ -8,7 +8,7 @@
 
 ## Repo Content
 - <b>Data</b> - The raw dataset can be found on the [UCI Machine Learning website](https://archive.ics.uci.edu/ml/datasets/Online+Retail). 
-- <b>[images](https://github.com/Naidanzheng/DATA-602-Project-1/tree/main/Image)</b> - Various plots and images used in the documents found in this repo.
+- <b>[images](https://github.com/Naidanzheng/Homework-2/blob/Master/Image)</b> - Various plots and images used in the documents found in this repo.
 - <b>[DATA602 Homework 2.ipynb](https://github.com/Naidanzheng/Homework-2/blob/Master/DATA602%20Project%201.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
 - <b>[README.md](README.md)</b> - A description of the project goals, process, and results.
 
@@ -28,7 +28,7 @@
 ---
 ## Overview
 This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. We aim to segment the Customers based on RFM so that the company can target its customers efficiently.
-
+![Online Retail.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Online%20Retail.png)
 
 
 ## Goals
