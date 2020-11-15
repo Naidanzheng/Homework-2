@@ -40,6 +40,8 @@ Which customers are the most valuable customers? In other words, the total amoun
 Which customers are the most loyal customers(the customers with the highest repurchase rate)? 
 
 ## Motivation & Background
+Traditional retailers are competing to change e-commerce. The consumption behavior of online consumers has become traceable due to the Internet, and a great deal of consumption data has been generated. All electronic retailers face challenges as to how to use this information to mine valuable business data.
+
 
 
 
@@ -49,19 +51,23 @@ This dataset has 8 columns and 541,909 columns, it contains the customer ID, the
 ![Data.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Data.png)
 
 ## Conclusion
+Through descriptive statistical analysis, we learned about the overall operation of the e-commerce company, and calculated the monthly sales volume and total monthly sales. The monthly sales increased significantly in September, October and November 2011, and the least people shop in February. Therefore, online retailers can stock up before November to ensure that there are enough goods, and in February, they can provide some discounts to attract customers. We found that most of the orders are from the UK.
+
+In order to mine valuable users, we use two methods. The first method is to use the RFM model to group users, and the second method is to use the K-Means algorithm to group users by "machine learning". Both methods are mining. To generate value users, compare the user portrait results obtained by the two methods, the result obtained by the K-Means method is better, and the final value users excavated accounted for 19.01% but contributed 67.02% of sales. Customers with Cluster 2 are the frequent buyers and most valueble customers, so they will respond to online retailers' current campaign. Therefore, Customers with Cluster 2 are the key development target of the business.
 
 ## Future Work
+After determining the value user, I can further learn the consumption habits of the value user, so as to provide a consumer-centric smart business model, and perform multiple iterations according to the actual application to optimize the value user mining model.
 
 ## Software Requirements
 <pre>
 Languages    : Python 3.9.0
 Tools/IDE    : Anaconda, Colab
-Libraries    : numPy,pandas, matplotlib, seaborn, scipy.stats, scikit-learn,warning
+Libraries    : numPy,pandas, matplotlib, seaborn, datetime, scikit-learn,warning 
 </pre>
 
 <pre>
-Duration     : October 2020
-Last Update  : 10.12.2020
+Duration     : November 2020
+Last Update  : 11.13.2020
 </pre>
 
 
