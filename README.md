@@ -60,6 +60,9 @@ Therefore, online retailers can stock up before November to ensure that there ar
 The main customers are from the UK, and there are relatively few overseas customers, so online retailers can consider how to attract overseas customers and increase their sales.
 ![Country.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Country.png)
 
+## Modeling
+In clustering calculations, K-Means is a very popular algorithm, and this method is used in this analysis to mine value users.
+There are several methods for selecting the number of clusters, and the Elbow Criterion method is used here.
 
 
 ## Conclusion
