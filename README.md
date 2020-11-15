@@ -50,6 +50,13 @@ The dataset contains about a year worth of transactions (dec-2010 to dec-2011) f
 This dataset has 8 columns and 541,909 columns, it contains the customer ID, the price of the product, the quantity purchased, the product code, the date of purchase and the country of the product.
 ![Data.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Data.png)
 
+
+
+From this graph, we can clearly see that November is the peak of shopping, the least people shop in February.
+Therefore, online retailers can stock up before November to ensure that there are enough goods, and in February, they can provide some discounts to attract customers.
+![Month.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Month.png)
+
+
 ## Conclusion
 Through descriptive statistical analysis, we learned about the overall operation of the e-commerce company, and calculated the monthly sales volume and total monthly sales. The monthly sales increased significantly in September, October and November 2011, and the least people shop in February. Therefore, online retailers can stock up before November to ensure that there are enough goods, and in February, they can provide some discounts to attract customers. We found that most of the orders are from the UK.
 
