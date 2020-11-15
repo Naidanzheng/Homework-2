@@ -46,6 +46,7 @@ Which customers are the most loyal customers(the customers with the highest repu
 ## Data
 The dataset contains about a year worth of transactions (dec-2010 to dec-2011) from an online retail company based on in the UK.
 This dataset has 8 columns and 541,909 columns, it contains the customer ID, the price of the product, the quantity purchased, the product code, the date of purchase and the country of the product.
+![Data.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Data.png)
 
 ## Conclusion
 
