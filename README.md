@@ -57,6 +57,11 @@ Therefore, online retailers can stock up before November to ensure that there ar
 ![Month.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Month.png)
 
 
+The main customers are from the UK, and there are relatively few overseas customers, so online retailers can consider how to attract overseas customers and increase their sales.
+![Country.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Country.png)
+
+
+
 ## Conclusion
 Through descriptive statistical analysis, we learned about the overall operation of the e-commerce company, and calculated the monthly sales volume and total monthly sales. The monthly sales increased significantly in September, October and November 2011, and the least people shop in February. Therefore, online retailers can stock up before November to ensure that there are enough goods, and in February, they can provide some discounts to attract customers. We found that most of the orders are from the UK.
 
