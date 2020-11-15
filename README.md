@@ -56,7 +56,7 @@ Through descriptive statistical analysis, we learned about the overall operation
 In order to mine valuable users, we use two methods. The first method is to use the RFM model to group users, and the second method is to use the K-Means algorithm to group users by "machine learning". Both methods are mining. To generate value users, compare the user portrait results obtained by the two methods, the result obtained by the K-Means method is better, and the final value users excavated accounted for 19.01% but contributed 67.02% of sales. Customers with Cluster 2 are the frequent buyers and most valueble customers, so they will respond to online retailers' current campaign. Therefore, Customers with Cluster 2 are the key development target of the business.
 
 ## Future Work
-After determining the value user, I can further learn the consumption habits of the value user, so as to provide a consumer-centric smart business model, and perform multiple iterations according to the actual application to optimize the value user mining model.
+After determining the value user, I can further learn the consumption habits of the value user, so as to provide a consumer-centric smart business model, and perform multiple iterations according to the actual application to optimize the value user mining model. I will test and compare the solutions with other clustering methods, and determine the areas of improvement.
 
 ## Software Requirements
 <pre>
