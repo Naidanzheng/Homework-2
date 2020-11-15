@@ -7,10 +7,9 @@
 ---
 
 ## Repo Content
-- <b>[Data]</b> - The raw dataset can be found on the [UCI Machine Learning website](https://archive.ics.uci.edu/ml/datasets/Online+Retail). 
+- <b>Data</b> - The raw dataset can be found on the [UCI Machine Learning website](https://archive.ics.uci.edu/ml/datasets/Online+Retail). 
 - <b>[images](https://github.com/Naidanzheng/DATA-602-Project-1/tree/main/Image)</b> - Various plots and images used in the documents found in this repo.
-- <b>[DATA602 Homework 2.ipynb](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/DATA602%20Project%201.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
-- <b>[Presentation1](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Presentation1.pptx)</b> - The presentation for this project. The presentation [video](https://www.youtube.com/watch?v=4KKAqstCGxc&t=60s).
+- <b>[DATA602 Homework 2.ipynb](https://github.com/Naidanzheng/Homework-2/blob/Master/DATA602%20Project%201.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
 - <b>[README.md](README.md)</b> - A description of the project goals, process, and results.
 
 ---
@@ -45,8 +44,24 @@ Which groups of customers are the target for the company?
 
 ## Data
 
+## Conclusion
+
+## Future Work
+
+## Software Requirements
+<pre>
+Languages    : Python 3.9.0
+Tools/IDE    : Anaconda, Colab
+Libraries    : numPy,pandas, matplotlib, seaborn, scipy.stats, scikit-learn,warning
+</pre>
+
+<pre>
+Duration     : October 2020
+Last Update  : 10.12.2020
+</pre>
 
 
+## Resource
 
 
 
