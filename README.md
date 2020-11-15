@@ -73,5 +73,5 @@ Last Update  : 11.13.2020
 
 ## Resource
 
-
-
+- <b>[RFM Analysis for Customer Segmentation](https://clevertap.com/blog/rfm-analysis/)
+- <b>[Understanding K-means Clustering in Machine Learning](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
