@@ -36,13 +36,16 @@ We will be using the online retail transaction dataset to build an RFM clusterin
 
 
 ### Research Questions
-Which groups of customers are the target for the company?
+Which customers are the most valuable customers? In other words, the total amount of consumption is the highest in a specific time frame. What are the customers characteristics of these high-value customers?
+Which customers are the most loyal customers(the customers with the highest repurchase rate)? 
 
 ## Motivation & Background
 
 
 
 ## Data
+The dataset contains about a year worth of transactions (dec-2010 to dec-2011) from an online retail company based on in the UK.
+This dataset has 8 columns and 541,909 columns, it contains the customer ID, the price of the product, the quantity purchased, the product code, the date of purchase and the country of the product.
 
 ## Conclusion
 
