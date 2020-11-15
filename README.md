@@ -7,7 +7,7 @@
 ---
 
 ## Repo Content
-- <b>Data</b> - The raw dataset can be found on the [UCI Machine Learning website](https://archive.ics.uci.edu/ml/datasets/Online+Retail). 
+- <b>[Data]</b> - The raw dataset can be found on the [UCI Machine Learning website](https://archive.ics.uci.edu/ml/datasets/Online+Retail). 
 - <b>[images](https://github.com/Naidanzheng/DATA-602-Project-1/tree/main/Image)</b> - Various plots and images used in the documents found in this repo.
 - <b>[DATA602 Homework 2.ipynb](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/DATA602%20Project%201.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
 - <b>[Presentation1](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/Presentation1.pptx)</b> - The presentation for this project. The presentation [video](https://www.youtube.com/watch?v=4KKAqstCGxc&t=60s).
@@ -17,14 +17,14 @@
 
 
 ## Table of Content
-- <b>[Overview](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#overview) 
-- <b>[Goals](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#goals) 
-- <b>[Motivation & Background](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#motivation--background) 
-- <b>[Data](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#data) 
-- <b>[Conclusion](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#conclusion) 
-- <b>[Future Work](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#future-work) 
-- <b>[Software Requirements](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#software-requirements) 
-- <b>[Resource](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/README.md#resource) 
+- <b>[Overview](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#overview) 
+- <b>[Goals](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#goals) 
+- <b>[Motivation & Background](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#motivation--background) 
+- <b>[Data](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#data) 
+- <b>[Conclusion](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#conclusion) 
+- <b>[Future Work](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#future-work) 
+- <b>[Software Requirements](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#software-requirements) 
+- <b>[Resource](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#resource) 
 
 ---
 ## Overview
