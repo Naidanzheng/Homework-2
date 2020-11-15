@@ -63,6 +63,20 @@ The main customers are from the UK, and there are relatively few overseas custom
 ## Modeling
 In clustering calculations, K-Means is a very popular algorithm, and this method is used in this analysis to mine value users.
 There are several methods for selecting the number of clusters, and the Elbow Criterion method is used here.
+![Cluster.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Cluster.png)
+When k = 4, the curve starts to change smoothly, so choose 4 as the number of clusters.
+
+Customers have been grouped, let's look at the consumption behavior characteristics of different types of customers.
+These three  graphs show the value customer's contribution to sales.
+![Monetary.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Monetary.png)
+![Recency.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Recency.png)
+![Frequency.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Frequency.png)
+To generate value users, compare the user portrait results obtained by the two methods, the result obtained by the K-Means method is better, and the final value users excavated accounted for 19.01% but contributed 67.02% of sales. Customers with Cluster 2 are the frequent buyers and most valueble customers, so they will respond to online retailers' current campaign. Therefore, Customers with Cluster 2 are the key development target of the business.
+
+
+
+
+
 
 
 ## Conclusion
