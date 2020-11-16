@@ -43,7 +43,7 @@ We will be using the online retail transaction dataset to build an RFM clusterin
 3. Which group of customers is most likely to respond to our current campaign? 
 
 ## Motivation & Background
-Traditional retailers are competing to change e-commerce. The consumption behavior of online consumers has become traceable due to the Internet, and a great deal of consumption data has been generated. All electronic retailers face challenges as to how to use this information to mine valuable business data.
+Traditional retailers are competing to change e-commerce. The consumption behavior of online consumers has become traceable due to the Internet, and a great deal of consumption data has been generated. All electronic retailers face challenges as to how to use this information to mine valuable business data. I am very interested in this topic because my family has a small business, so I hope to earn experience and to use these skills in my family business and future work.
 
 
 
