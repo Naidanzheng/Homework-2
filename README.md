@@ -20,6 +20,7 @@
 - <b>[Goals](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#goals) 
 - <b>[Motivation & Background](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#motivation--background) 
 - <b>[Data](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#data) 
+- <b>[Modeling](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#modeling) 
 - <b>[Conclusion](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#conclusion) 
 - <b>[Future Work](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#future-work) 
 - <b>[Software Requirements](https://github.com/Naidanzheng/Homework-2/blob/Master/README.md#software-requirements) 
