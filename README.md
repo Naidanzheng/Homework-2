@@ -51,7 +51,6 @@ This dataset has 8 columns and 541,909 columns, it contains the customer ID, the
 ![Data.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Data.png)
 
 
-
 From this graph, we can clearly see that November is the peak of shopping, the least people shop in February.
 Therefore, online retailers can stock up before November to ensure that there are enough goods, and in February, they can provide some discounts to attract customers.
 ![Month.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Month.png)
@@ -71,11 +70,8 @@ These three  graphs show the value customer's contribution to sales.
 ![Monetary.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Monetary.png)
 ![Recency.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Recency.png)
 ![Frequency.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Frequency.png)
+
 To generate value users, compare the user portrait results obtained by the two methods, the result obtained by the K-Means method is better, and the final value users excavated accounted for 19.01% but contributed 67.02% of sales. Customers with Cluster 2 are the frequent buyers and most valueble customers, so they will respond to online retailers' current campaign. Therefore, Customers with Cluster 2 are the key development target of the business.
-
-
-
-
 
 
 
