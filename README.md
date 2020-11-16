@@ -7,7 +7,7 @@
 ## Repo Content
 - <b>Data</b> - The raw dataset can be found on the [UCI Machine Learning website](https://archive.ics.uci.edu/ml/datasets/Online+Retail). 
 - <b>[images](https://github.com/Naidanzheng/Homework-2/blob/Master/Image)</b> - Various plots and images used in the documents found in this repo.
-- <b>[Homework 2.ipynb]（https://github.com/Naidanzheng/Homework-2/blob/Master/Homework%202.ipynb） </b> - The main Jupyter Notebook containing the models and analysis for this project.
+- <b>[Homework 2.ipynb](https://github.com/Naidanzheng/Homework-2/blob/Master/Homework%202.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
 - <b>[README.md](README.md)</b> - A description of the project goals, process, and results.
 
 ---
