@@ -33,12 +33,14 @@ This is a transnational data set which contains all the transactions occurring b
 
 
 ## Goals
+The stakehold for this project is the online retailers, they can know exactly who their value customers are and who are the key development targets of their business.
 We will be using the online retail transaction dataset to build an RFM clustering and choose the best set of customers which the company should target.
 
 
-### Research Questions
-Which customers are the most valuable customers? In other words, the total amount of consumption is the highest in a specific time frame. What are the customers characteristics of these high-value customers?
-Which customers are the most loyal customers(the customers with the highest repurchase rate)? 
+## Research Questions
+1. Which customers are the most valuable customers? In other words, the total amount of consumption is the highest in a specific time frame. What are the customers characteristics of these high-value customers?
+2. Which customers are the most loyal customers(the customers with the highest repurchase rate)?
+3. Which group of customers is most likely to respond to our current campaign? 
 
 ## Motivation & Background
 Traditional retailers are competing to change e-commerce. The consumption behavior of online consumers has become traceable due to the Internet, and a great deal of consumption data has been generated. All electronic retailers face challenges as to how to use this information to mine valuable business data.
