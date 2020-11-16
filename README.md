@@ -1,6 +1,6 @@
 # Homework-2
 
-# Online Retail 
+# Online Retail --- K-Means Clustering
 
 #####    by <b>[Naidan Zheng](https://github.com/Naidanzheng)</b>
 
