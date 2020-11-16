@@ -28,7 +28,7 @@
 
 ---
 ## Overview
-This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. We aim to segment the Customers based on RFM so that the company can target its customers efficiently.
+This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. We aim to segment the Customers based on K-Mean clustering and RFM so that the company can target its customers efficiently. After modeling, we find the customers with Cluster 2 accounts for only 19.01% but contributes 67.02% of sales, which is the key development target of the business, and also customers with Cluster 2 are frequent buyers.
 ![Online Retail.png](https://github.com/Naidanzheng/Homework-2/blob/Master/Image/Online%20Retail.png)
 
 
